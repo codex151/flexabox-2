@@ -138,9 +138,6 @@ body{
 }
 
 @media (max-width: 400px) {
-  .two{
-
-  }
   .container{
     text-align: center;
     display: flex;
@@ -170,9 +167,6 @@ body{
 }
 
 @media (max-width: 800px) {
-  .two{
-
-  }
   .container{
     text-align: center;
     display: flex;
@@ -202,9 +196,6 @@ body{
 }
 
 @media (max-width: 1017px) {
-  .two{
-
-  }
   .container{
     text-align: center;
     display: flex;
